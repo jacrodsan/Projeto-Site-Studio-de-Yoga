@@ -1,0 +1,157 @@
+estiloprincipal.css
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+    border: 0;
+    margin-left: 0;
+      font-family: 'Karla';
+}
+header{
+    background: #c7ced0;
+    top: 0%;
+    margin: 0%;
+    width: 100%;
+    height: 5%;
+    color: #0a0a09;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+   
+}
+ #main-footer{
+    background: #82898d ;
+    padding-bottom: 0;
+    text-align: center;
+    width: 100%;
+    height: 20%;
+    text-decoration-color: #f2efef;
+    color: #fff3d7;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+   
+}
+#img{
+    padding-top: 10%;
+    padding: 20%; 
+}
+
+#menu-h{
+    background-color:rgb(255, 255, 255);
+}
+
+#menu-h ul {
+    max-width: 80%;
+    list-style: none;
+}
+
+#menu-h ul li {
+    display: inline;
+}
+
+#menu-h ul li a {
+    color: #000;
+    padding: 1%; /*espaço entres os icones*/
+    display: inline-block;
+    text-decoration: none;
+    font-size: 15px;
+    
+}
+
+#menu-h ul li a:hover {
+    background-color: #c7ced0;
+}
+#texto1{
+    position: absolute;
+    justify-content: left;
+    font-size: 115%;
+    top: 65%;
+    left: 5%;
+    color: rgb(0, 0, 0);
+    font-family: 'didot';
+    text-size-adjust: 100%;
+    text-align:justify;
+}
+#texto1 .botao{
+    font-family: 'didot';
+    padding: 1% 2%;
+    margin-top: 15%;
+    color: #fff;
+    text-decoration: none;
+    background: #98a6ad;
+    border: solid  #98a6ad 5px;
+    letter-spacing: 1px;
+}
+#texto2{
+    position: absolute;
+    top: 150%;
+    left: 30%;
+    color: rgb(0, 2, 0);
+}
+#texto2 h1{
+    color: #000;
+    font-size: 50px;
+    padding-left: 0px;
+    padding-right: 200px;
+    font-family: 'didot';
+    text-align: left;
+    margin-left: 0%;
+}
+#texto2 p{
+    color: #000;
+    font-size:110%;
+    padding-left: 0%;
+    padding-right: 150px;
+    font-family: 'didot';
+    text-align: left;
+    margin-left: 0%;
+}
+#texto2 .botao{
+    font-family: 'didot';
+    padding: 1% 1%;
+    color: #fff;
+    text-decoration: none;
+    background: #98a6ad;
+    border: solid  #98a6ad 10%;
+    letter-spacing: 1%;
+    font-size: 80%;
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align: center;
+
+}
+#texto3{
+    position: center;
+    top: 400%;
+    left: 830px;
+    color: rgb(1, 5, 2);
+}
+#texto3 h1{
+    padding-right: 20px;
+    justify-content: center;
+    font-size: 30px;
+    color: #fff;
+    font-family: 'didot';
+    text-align: center;
+    margin-top: -65%;
+}
+#texto4{
+    position: absolute;
+    top: 2470px;
+    left: 200px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+#texto5{
+    position: absolute;
+    top: 2800px;
+    left: 500px;
+    color: rgb(0, 0, 0);
+  
+}
+
+
